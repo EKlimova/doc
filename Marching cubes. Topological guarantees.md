@@ -6,7 +6,7 @@
 
 Рис.1. Томографический снимок.  
 
-<img src="./media/image2.png" width="490" height="310" />  
+<img src="./media/image2.jpg" width="490" height="310" />  
 
 Рис.2. Пиксель и воксель.  
 
